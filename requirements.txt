@@ -1,0 +1,4 @@
+argparse
+tldextract
+google
+fake_useragent
